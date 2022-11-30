@@ -1,0 +1,22 @@
+    body{
+        background-color: rgb(171, 213, 171);
+    }
+
+    header{
+        font: normal 20pt Arial;
+        color: brown;
+        padding: 20px;
+        text-align: center;
+    }
+    
+    section{
+        background-color: white;
+        width: 600px;
+        height: 200px;
+        border-radius: 50px;
+        border-style: double;
+        font: normal 12pt Arial;
+        color: brown;
+        margin: auto;
+        padding: 20px;
+    }
